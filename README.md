@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm S.M.Rasel</h1>
 <h5 align="center">I'm S.M. Rasel, a student of Computer Science and Engineering at AIUB, exploring new challenges by continuously learning about Java, Python, AI, ML, Deep Learning, and Web Development.</h5>
 
