@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm S.M.Rasel</h1>
 <h5 align="center">I'm S.M. Rasel, a student of Computer Science and Engineering at AIUB, exploring new challenges by continuously learning about Java, Python, AI, ML, Deep Learning, and Web Development.</h5>
 
-<img align="right" alt="Coding"  Width="400" src="https://i.pinimg.com/originals/fa/7b/4b/fa7b4bdc3b2f73e749e5c2c646d4ae13.gif">
+<img align="right" alt="Coding"  Width="480" src="https://i.pinimg.com/originals/fa/7b/4b/fa7b4bdc3b2f73e749e5c2c646d4ae13.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasel6866&label=Profile%20views&color=0e75b6&style=flat" alt="rasel6866" /> </p>
+
 
 
 - 🔭 I’m currently working on **institutional project**
@@ -13,6 +14,8 @@
 - 📫 How to reach me **raselsarker597@gmail.com , www.linkedin.com/in/s-m-rasel-2341b92b1**
 
 - ⚡ Fun fact **Programmers never sleep, for a while they go offline😎**
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rasel6866" alt="rasel6866" /></a> </p>
 
