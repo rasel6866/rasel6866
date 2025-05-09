@@ -62,3 +62,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rasel6866&show_icons=true&locale=en" alt="rasel6866" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasel6866&" alt="rasel6866" /></p>
+
+<h2 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3700&lines=Thanks+for+visiting!+👋;" />
+</h2>
