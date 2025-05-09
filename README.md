@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm S.M.Rasel</h1>
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=rasel6866&label=Profile%20views&color=0e75b6&style=flat" alt="rasel6866" /> </p>
-<img align="right"   Width="480" src="https://i.pinimg.com/originals/fa/7b/4b/fa7b4bdc3b2f73e749e5c2c646d4ae13.gif">
-<h5 align="center">I'm S.M. Rasel, a student of Computer Science and Engineering at AIUB, exploring new challenges by continuously learning about Java, Python, AI, ML, Deep Learning, and Web Development.</h5>
+<img align="right" alt="Coding"  Width="480" src="https://i.pinimg.com/originals/fa/7b/4b/fa7b4bdc3b2f73e749e5c2c646d4ae13.gif">
+
+
+<h5 align="center"> I'm S.M. Rasel, a student of Computer Science and Engineering at AIUB, exploring new challenges by continuously learning about Java, Python, AI, ML, Deep Learning, and Web Development.</h5>
 
 
 
