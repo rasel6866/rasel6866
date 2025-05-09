@@ -35,7 +35,7 @@
 
 - ⚡ Fun fact **"Programmers never sleep, for a while they go offline"😊**
 
-
+<br><br>
  <div align="center"> 
      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=raselsarker597@gmail.com" target="_blank">
      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
@@ -43,13 +43,13 @@
      <a href="https://wa.me/+8801734442269" target="_blank">
      <img src="https://img.shields.io/badge/Whatsapp-25FF0000?style=for-the-badge&logo=Whatsapp&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-</div><br><br>
+</div>
 
 
  <div align="center">
      
 **Connect with me**
- </div><br><br>
+ </div>
 
  
 <p align="center">
