@@ -45,11 +45,11 @@
   </a>
 </div>
 
-
-
-
-
+ <div align="center">
 **Connect with me**
+ </div>
+
+ 
 <p align="center">
 <a href="https://linkedin.com/in/www.linkedin.com/in/s-m-rasel-2341b92b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/s-m-rasel-2341b92b1" height="30" width="40" /></a>
 
