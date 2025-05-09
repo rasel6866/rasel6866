@@ -1,6 +1,11 @@
-<h1 align="center">Hi 👋, I'm S.M.Rasel</h1>
+<p align="right">
+    <img src="https://komarev.com/ghpvc/?username=rasel6866&style=flat-square&color=6e5494&label=Profile+Views" alt="Profile Views" />
+</p>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=rasel6866&label=Profile%20views&color=0e75b6&style=flat" alt="rasel6866" /> </p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3700&lines=Hi+There!+👀;+I'm+S.M.+Rasel!;" />
+</h1>
+
 <img align="right" alt="Coding"  Width="480" src="https://i.pinimg.com/originals/fa/7b/4b/fa7b4bdc3b2f73e749e5c2c646d4ae13.gif">
 
 
