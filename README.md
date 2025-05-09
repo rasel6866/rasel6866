@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3700&lines=Hi+There!+👀;+I'm+S.M.+Rasel!🤗;" />
 </h1>
 
-<h3 align="center">
+<h4 align="center">
 
   <div align="center">
  
@@ -22,14 +22,10 @@
 <img align="center" height="140" src="https://i.pinimg.com/originals/fa/7b/4b/fa7b4bdc3b2f73e749e5c2c646d4ae13.gif"/>
 
  </div>
-  </h3>
+  </h4>
 
 
   <br/>
-
-
-
-
 
 - 🔭 I’m currently working on **institutional project**
 
