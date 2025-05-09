@@ -43,11 +43,13 @@
      <a href="https://wa.me/+8801734442269" target="_blank">
      <img src="https://img.shields.io/badge/Whatsapp-25FF0000?style=for-the-badge&logo=Whatsapp&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-</div>
+</div><br><br>
+
 
  <div align="center">
+     
 **Connect with me**
- </div>
+ </div><br><br>
 
  
 <p align="center">
