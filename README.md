@@ -6,9 +6,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3700&lines=Hi+There!+👀;+I'm+S.M.+Rasel!🤗;" />
 </h1>
 
-<h4 align="center">
+<h4  align="center">
 
-  <div align="center">
+  <div  align="center">
  
  **About Me**💫
 
