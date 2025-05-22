@@ -1,7 +1,5 @@
 <p align="right">
-    
     <img src="https://komarev.com/ghpvc/?username=rasel6866&style=flat-square&color=6e5494&label=Profile+Views" alt="Profile Views" />
-    
 </p>
 
 <h1 align="center">
