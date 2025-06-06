@@ -33,7 +33,7 @@
 
 - 📫 How to reach me **raselsarker597@gmail.com , www.linkedin.com/in/s-m-rasel-2341b92b1**
 
-- ⚡ Fun fact **"Programmers never sleep, for a while they go offline"😊**
+- ⚡ Fun fact ***"Programmers never sleep, for a while they go offline"😊***
   
 
 <h3 align="center"> Connect with me: </h3>
