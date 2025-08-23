@@ -14,7 +14,7 @@
 
  </div>
  
- I'm S.M. Rasel, a student of Computer Science and Engineering at AIUB, exploring new challenges by continuously learning about Java, Python, AI, ML, Deep Learning, and Web Development
+ I'm S.M. Rasel, a student of Computer Science and Engineering at AIUB, exploring new challenges by continuously learning about Java, Python, AI, ML, Data science, Deep Learning, Human computer Intraction & Web Development and so one..
   <br/>
 
 <div align="center">
