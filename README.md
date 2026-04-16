@@ -23,10 +23,7 @@
 
  </div>
   </h4>
-
-
   <br/>
-
 - 🔭 I’m currently working on **institutional project**
 
 - 🌱 I’m currently learning **python, web Development**
@@ -35,7 +32,6 @@
 
 - ⚡ Fun fact ***"Programmers never sleep, for a while they go offline"😊***
   
-
 <h3 align="center"> Connect with me: </h3>
 
 <a href="https://linkedin.com/in/www.linkedin.com/in/s-m-rasel-2341b92b1" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/s-m-rasel-2341b92b1" height="30" width="40" /></a>
