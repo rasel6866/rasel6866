@@ -16,9 +16,7 @@
  
  I'm S.M. Rasel, a student of Computer Science and Engineering at AIUB, exploring new challenges by continuously learning about Java, Python, AI, ML, Data science, Deep Learning, Human computer Intraction(HCI) & Web Development and so one..
   <br/>
-
 <div align="center">
- 
 <img align="center" height="140" src="https://i.pinimg.com/originals/fa/7b/4b/fa7b4bdc3b2f73e749e5c2c646d4ae13.gif"/>
 
  </div>
